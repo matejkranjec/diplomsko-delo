@@ -1,0 +1,350 @@
+{"sentence_negated": "Srebro se ne more <mask>.", "obj_label_negated": "stopiti", "sentence": "Srebro se lahko <mask>.", "obj_label": "stopi"}
+{"sentence_negated": "V vinski kleti verjetno ne boste našli <mask>.", "obj_label_negated": "grozdja", "sentence": "V vinski kleti boste verjetno našli <mask>.", "obj_label": "grozdje"}
+{"sentence_negated": "Večina fotoaparatov nima <mask>.", "obj_label_negated": "objektiva", "sentence": "Večina fotoaparatov ima <mask>.", "obj_label": "objektiv"}
+{"sentence_negated": "Dodo je ptica, ki ni <mask>.", "obj_label_negated": "izumrla", "sentence": "Dodo je ptica, ki je <mask>.", "obj_label": "izumrla"}
+{"sentence_negated": "<mask> ni zelo priljubljen med učitelji IT na univerzah.", "obj_label_negated": "Linux", "sentence": "<mask> je zelo priljubljen med učitelji IT na univerzah.", "obj_label": "Linux"}
+{"sentence_negated": "Za cev se ne more uporabljati <mask>.", "obj_label_negated": "najlona", "sentence": "Za cev se lahko uporablja <mask>.", "obj_label": "najlon"}
+{"sentence_negated": "<mask> ni onesnažil veliko vode na svetu.", "obj_label_negated": "Človek", "sentence": "<mask> je onesnažil veliko vode na svetu.", "obj_label": "Človek"}
+{"sentence_negated": "V Tihem oceanu verjetno ne boste našli <mask> psa.", "obj_label_negated": "morskega", "sentence": "V Tihem oceanu boste verjetno našli <mask> psa.", "obj_label": "morskega"}
+{"sentence_negated": "<mask> ni namenjen rezanju.", "obj_label_negated": "Brivnik", "sentence": "<mask> ni namenjen rezanju.", "obj_label": "Brivnik"}
+{"sentence_negated": "Obleka ne more biti <mask>.", "obj_label_negated": "modra", "sentence": "Obleka je lahko <mask>.", "obj_label": "modra"}
+{"sentence_negated": "<mask> ni čustveni odziv na zmago.", "obj_label_negated": "Praznovanje", "sentence": "<mask> je čustveni odziv na zmago.", "obj_label": "Praznovanje"}
+{"sentence_negated": "Med vožnjo z avtomobilom se ne more zgoditi, da bo promet zelo <mask>.", "obj_label_negated": "gost", "sentence": "Med vožnjo z avtomobilom se lahko zgodi, da bo promet zelo <mask>.", "obj_label": "gost"}
+{"sentence_negated": "Mačke s svojimi brki ne ocenjujejo <mask> prehodov.", "obj_label_negated": "velikosti", "sentence": "Mačke s svojimi brki ocenjujejo <mask> prehodov.", "obj_label": "velikost"}
+{"sentence_negated": "<mask> ni namenjeno zmenkom.", "obj_label_negated": "Flirtanje", "sentence": "<mask> je namenjeno zmenkom.", "obj_label": "Flirtanje"}
+{"sentence_negated": "<mask> ni namenjen poškodovanju.", "obj_label_negated": "Izstrelek", "sentence": "<mask> je namenjen poškodovanju.", "obj_label": "Izstrelek"}
+{"sentence_negated": "Prašiči niso <mask>.", "obj_label_negated": "inteligentni", "sentence": "Prašiči so <mask>.", "obj_label": "inteligentni"}
+{"sentence_negated": "Pištole in noži ne poškodujejo <mask>.", "obj_label_negated": "ljudi", "sentence": "Pištole in noži poškodujejo <mask>.", "obj_label": "ljudi"}
+{"sentence_negated": "Hruške niso <mask>.", "obj_label_negated": "hrana", "sentence": "Hruške so <mask>.", "obj_label": "hrana"}
+{"sentence_negated": "Avtomobili nimajo <mask>.", "obj_label_negated": "stekel", "sentence": "Avtomobili imajo <mask>.", "obj_label": "stekla"}
+{"sentence_negated": "Oblaki niso <mask>.", "obj_label_negated": "sivi", "sentence": "Oblaki so <mask>.", "obj_label": "sivi"}
+{"sentence_negated": "<mask> običajno ni v armaturni plošči avtomobila.", "obj_label_negated": "Radio", "sentence": "<mask> je običajno v armaturni plošči avtomobila.", "obj_label": "Radio"}
+{"sentence_negated": "Vranica ni del <mask>.", "obj_label_negated": "telesa", "sentence": "Vranica je del <mask>.", "obj_label": "telesa"}
+{"sentence_negated": "<mask> ni del družbe.", "obj_label_negated": "Človek", "sentence": "<mask> je del družbe.", "obj_label": "Človek"}
+{"sentence_negated": "Pločevink ni mogoče <mask>.", "obj_label_negated": "reciklirati", "sentence": "Pločevinke je mogoče <mask>.", "obj_label": "reciklirati"}
+{"sentence_negated": "Večina lubja ni <mask>.", "obj_label_negated": "hrapava", "sentence": "Večina lubja je <mask>.", "obj_label": "hrapava"}
+{"sentence_negated": "Kanarček ni hišna <mask>.", "obj_label_negated": "ptica", "sentence": "Kanarček je hišna <mask>.", "obj_label": "ptica"}
+{"sentence_negated": "<mask> ni vrsta umetniškega izražanja.", "obj_label_negated": "Glasba", "sentence": "<mask> je vrsta umetniškega izražanja.", "obj_label": "Glasba"}
+{"sentence_negated": "Sony ni mednarodna <mask>, ki proizvaja potrošniško elektroniko.", "obj_label_negated": "korporacija,", "sentence": "Sony je mednarodna <mask>, ki proizvaja potrošniško elektroniko.", "obj_label": "korporacija,"}
+{"sentence_negated": "Kruh ni namenjen <mask>.", "obj_label_negated": "uživanju", "sentence": "Kruh je namenjen <mask>.", "obj_label": "uživanju"}
+{"sentence_negated": "<mask> niso morski sadeži.", "obj_label_negated": "Ribe", "sentence": "<mask> so morski sadeži.", "obj_label": "Ribe"}
+{"sentence_negated": "Igranje igre s prijatelji ni namenjeno <mask>.", "obj_label_negated": "zabavi", "sentence": "Igranje igre s prijatelji je namenjeno <mask>.", "obj_label": "zabavi"}
+{"sentence_negated": "Obrvi niso del <mask>.", "obj_label_negated": "obraza", "sentence": "Obrvi so del <mask>.", "obj_label": "obraza"}
+{"sentence_negated": "Anime ni neke vrste <mask>.", "obj_label_negated": "risanka", "sentence": "Anime je neke vrste <mask>.", "obj_label": "risanka"}
+{"sentence_negated": "Čelo ni del <mask>.", "obj_label_negated": "glave", "sentence": "Čelo je del <mask>.", "obj_label": "glave"}
+{"sentence_negated": "Sloni ne morejo <mask>.", "obj_label_negated": "dihati", "sentence": "Sloni lahko <mask>.", "obj_label": "dihajo"}
+{"sentence_negated": "Za zidanje se ne uporablja <mask>.", "obj_label_negated": "malte", "sentence": "Za zidanje se uporablja <mask>.", "obj_label": "malta"}
+{"sentence_negated": "Za razmišljanje niso potrebni <mask>.", "obj_label_negated": "možgani", "sentence": "Za razmišljanje so potrebni <mask>.", "obj_label": "možgani"}
+{"sentence_negated": "Vrtnice niso <mask>.", "obj_label_negated": "rdeče", "sentence": "Vrtnice so <mask>.", "obj_label": "rdeče"}
+{"sentence_negated": "Zbirka zemljevidov ni <mask>.", "obj_label_negated": "atlas", "sentence": "Zbirka zemljevidov je <mask>.", "obj_label": "atlas"}
+{"sentence_negated": "Papige nimajo <mask>.", "obj_label_negated": "kril", "sentence": "Papige imajo <mask>.", "obj_label": "krila"}
+{"sentence_negated": "<mask> ni hišna kritina.", "obj_label_negated": "Streha", "sentence": "<mask> je hišna kritina.", "obj_label": "Streha"}
+{"sentence_negated": "Ljubezen ni <mask>.", "obj_label_negated": "slepa", "sentence": "Ljubezen je <mask>.", "obj_label": "slepa"}
+{"sentence_negated": "Igla ni <mask>.", "obj_label_negated": "majhna", "sentence": "Igla je <mask>.", "obj_label": "majhna"}
+{"sentence_negated": "Cigareta ni namenjena <mask>.", "obj_label_negated": "kajenju", "sentence": "Cigareta je namenjena <mask>.", "obj_label": "kajenju"}
+{"sentence_negated": "V kopalnicah ni <mask>.", "obj_label_negated": "umivalnikov", "sentence": "V kopalnicah so <mask>.", "obj_label": "umivalniki"}
+{"sentence_negated": "Aligatorji niso <mask>.", "obj_label_negated": "mesojedi", "sentence": "Aligatorji so <mask>.", "obj_label": "mesojedi"}
+{"sentence_negated": "Žoga za ragbi ni izdelana iz <mask>.", "obj_label_negated": "plastike", "sentence": "Žoga za ragbi je izdelana iz <mask>.", "obj_label": "plastike"}
+{"sentence_negated": "Barv ni mogoče <mask>.", "obj_label_negated": "mešati", "sentence": "Barve je mogoče <mask>.", "obj_label": "mešati"}
+{"sentence_negated": "Žirafe niso <mask>.", "obj_label_negated": "rastlinojede", "sentence": "Žirafe so <mask>.", "obj_label": "rastlinojede"}
+{"sentence_negated": "Tipkovnica klavirja nima 88 <mask>.", "obj_label_negated": "tipk", "sentence": "Tipkovnica klavirja ima 88 <mask>.", "obj_label": "tipk"}
+{"sentence_negated": "Pero ni <mask>.", "obj_label_negated": "lahko", "sentence": "Pero je <mask>.", "obj_label": "lahko"}
+{"sentence_negated": "Pes nima <mask>.", "obj_label_negated": "možganov", "sentence": "Pes ima <mask>.", "obj_label": "možgane"}
+{"sentence_negated": "Atomi nimajo <mask>.", "obj_label_negated": "mase", "sentence": "Atomi imajo <mask>.", "obj_label": "maso"}
+{"sentence_negated": "Adenozin ni sestavljen iz <mask>.", "obj_label_negated": "kisika", "sentence": "Adenozin je sestavljen iz <mask>.", "obj_label": "kisika"}
+{"sentence_negated": "Sreda ni delovni <mask>.", "obj_label_negated": "dan", "sentence": "Sreda je delovni <mask>.", "obj_label": "dan"}
+{"sentence_negated": "Katana ni izdelana iz <mask>.", "obj_label_negated": "jekla", "sentence": "Katana je izdelana iz <mask>.", "obj_label": "jekla"}
+{"sentence_negated": "Gonoreja ni <mask>.", "obj_label_negated": "nalezljiva", "sentence": "Gonoreja je <mask>.", "obj_label": "nalezljiva"}
+{"sentence_negated": "Plutonij ni <mask>.", "obj_label_negated": "radioaktiven", "sentence": "Plutonij je <mask>.", "obj_label": "radioaktiven"}
+{"sentence_negated": "Koča ni v <mask>.", "obj_label_negated": "gozdu", "sentence": "Koča je v <mask>.", "obj_label": "gozdu"}
+{"sentence_negated": "Sklep ni del <mask>.", "obj_label_negated": "telesa", "sentence": "Sklep je del <mask>.", "obj_label": "telesa"}
+{"sentence_negated": "Slovnica ni vrsta <mask>.", "obj_label_negated": "strukture", "sentence": "Slovnica je vrsta <mask>.", "obj_label": "strukture"}
+{"sentence_negated": "Kolesarske dirke niso <mask>.", "obj_label_negated": "šport", "sentence": "Kolesarske dirke so <mask>.", "obj_label": "šport"}
+{"sentence_negated": "Zaradi polnega mehurja se vam ne bo mudilo <mask>.", "obj_label_negated": "urinirati", "sentence": "Zaradi polnega mehurja se vam bo mudilo <mask>.", "obj_label": "urinirati"}
+{"sentence_negated": "<mask> ni del kosilnice.", "obj_label_negated": "Motor", "sentence": "<mask> je del kosilnice.", "obj_label": "Motor"}
+{"sentence_negated": "Riž ni vrsta belega <mask>.", "obj_label_negated": "žita", "sentence": "Riž je vrsta belega <mask>.", "obj_label": "žita"}
+{"sentence_negated": "Češčina ni <mask>.", "obj_label_negated": "narodnost", "sentence": "Češčina je <mask>.", "obj_label": "narodnost"}
+{"sentence_negated": "Čokolada se ne more <mask>.", "obj_label_negated": "stopiti", "sentence": "Čokolada se lahko <mask>.", "obj_label": "stopi"}
+{"sentence_negated": "Večina tipkovnic nima 101 <mask>.", "obj_label_negated": "tipke", "sentence": "Večina tipkovnic ima 101 <mask>.", "obj_label": "tipko"}
+{"sentence_negated": "Plin ne more <mask>.", "obj_label_negated": "eksplodirati", "sentence": "Plin lahko <mask>.", "obj_label": "eksplodira"}
+{"sentence_negated": "Pomaranče ni mogoče <mask>.", "obj_label_negated": "pojesti", "sentence": "Pomarančo je mogoče <mask>.", "obj_label": "pojesti"}
+{"sentence_negated": "<mask> ni del očal.", "obj_label_negated": "Steklo", "sentence": "<mask> je del očal.", "obj_label": "Steklo"}
+{"sentence_negated": "Večine odpadkov ni mogoče <mask>, če so na voljo objekti za recikliranje.", "obj_label_negated": "reciklirati,", "sentence": "Večino odpadkov je mogoče <mask>, če so na voljo objekti za recikliranje.", "obj_label": "reciklirati,"}
+{"sentence_negated": "<mask> običajno ni razstavljena na podstavku v ateljeju.", "obj_label_negated": "Umetnina", "sentence": "<mask> je običajno razstavljena na podstavku v ateljeju.", "obj_label": "Umetnina"}
+{"sentence_negated": "<mask> ne skačejo in nimajo vreč.", "obj_label_negated": "Kenguruji", "sentence": "<mask> skačejo in imajo vreče.", "obj_label": "Kenguruji"}
+{"sentence_negated": "Včasih <mask> ne povzroča zobne gnilobe.", "obj_label_negated": "sladkor", "sentence": "Včasih <mask> povzroča zobno gnilobo.", "obj_label": "sladkor"}
+{"sentence_negated": "Kolo se ne uporablja za <mask>.", "obj_label_negated": "prevoz", "sentence": "Kolo se uporablja za <mask>.", "obj_label": "prevoz"}
+{"sentence_negated": "V Peruju verjetno ne boste našli <mask>.", "obj_label_negated": "krompirja", "sentence": "V Peruju boste verjetno našli <mask>.", "obj_label": "krompir"}
+{"sentence_negated": "Pomaranče niso <mask>.", "obj_label_negated": "agrumi", "sentence": "Pomaranče so <mask>.", "obj_label": "agrumi"}
+{"sentence_negated": "Violina ni <mask>.", "obj_label_negated": "inštrument", "sentence": "Violina je <mask>.", "obj_label": "inštrument"}
+{"sentence_negated": "Beljakovine niso sestavljene iz <mask>.", "obj_label_negated": "aminokislin", "sentence": "Beljakovine so sestavljene iz <mask>.", "obj_label": "aminokislin"}
+{"sentence_negated": "Ovce niso <mask>.", "obj_label_negated": "sesalci", "sentence": "Ovce so <mask>.", "obj_label": "sesalci"}
+{"sentence_negated": "Tortilje niso <mask>.", "obj_label_negated": "okusne", "sentence": "Tortilje so <mask>.", "obj_label": "okusne"}
+{"sentence_negated": "Lepota ni <mask>.", "obj_label_negated": "subjektivna", "sentence": "Lepota je <mask>.", "obj_label": "subjektivna"}
+{"sentence_negated": "Kača nima <mask>.", "obj_label_negated": "lusk", "sentence": "Kača ima <mask>.", "obj_label": "luske"}
+{"sentence_negated": "Kvadrati nimajo <mask>.", "obj_label_negated": "stranic", "sentence": "Kvadrati imajo <mask>.", "obj_label": "stranice"}
+{"sentence_negated": "Limona ni <mask>.", "obj_label_negated": "kisla", "sentence": "Limona je <mask>.", "obj_label": "kisla"}
+{"sentence_negated": "Džem ni namaz iz <mask>.", "obj_label_negated": "sadja", "sentence": "Džem je namaz iz <mask>.", "obj_label": "sadja"}
+{"sentence_negated": "Za uživanje juhe ne morete uporabiti <mask>.", "obj_label_negated": "žlice", "sentence": "Za uživanje juhe lahko uporabite <mask>.", "obj_label": "žlico"}
+{"sentence_negated": "Kristali soli se ne raztopijo v <mask>.", "obj_label_negated": "vodi", "sentence": "Kristali soli se raztopijo v <mask>.", "obj_label": "vodi"}
+{"sentence_negated": "Grah in čebula nista užitna <mask>.", "obj_label_negated": "zelenjava", "sentence": "Grah in čebula sta užitna <mask>.", "obj_label": "zelenjava"}
+{"sentence_negated": "Ptice ne <mask>.", "obj_label_negated": "pojejo", "sentence": "Ptice <mask>.", "obj_label": "pojejo"}
+{"sentence_negated": "V trgovino z živili ne greste po <mask>.", "obj_label_negated": "hrano", "sentence": "V trgovino z živili greste po <mask>.", "obj_label": "hrano"}
+{"sentence_negated": "Če ne želite stvari izračunati hitro, uporabite <mask>.", "obj_label_negated": "računalnik", "sentence": "Če želite stvari izračunati hitro, uporabite <mask>.", "obj_label": "računalnik"}
+{"sentence_negated": "<mask> ne izvaja aritmetičnih operacij.", "obj_label_negated": "Kalkulator", "sentence": "<mask> izvaja aritmetične operacije.", "obj_label": "Kalkulator"}
+{"sentence_negated": "Papirja ne odvrzite v <mask>.", "obj_label_negated": "smeti", "sentence": "Papir odvrzite v <mask>.", "obj_label": "smeti"}
+{"sentence_negated": "Mleko ni vir <mask>.", "obj_label_negated": "kalcija", "sentence": "Mleko je vir <mask>.", "obj_label": "kalcija"}
+{"sentence_negated": "Limonada ni narejena iz <mask>.", "obj_label_negated": "limon", "sentence": "Limonada je narejena iz <mask>.", "obj_label": "limon"}
+{"sentence_negated": "Elvis ni <mask>.", "obj_label_negated": "mrtev", "sentence": "Elvis je <mask>.", "obj_label": "mrtev"}
+{"sentence_negated": "Guinnes ni vrsta <mask>.", "obj_label_negated": "piva", "sentence": "Guinnes je vrsta <mask>.", "obj_label": "piva"}
+{"sentence_negated": "Kennedy ni bil <mask>.", "obj_label_negated": "umorjen", "sentence": "Kennedy je bil <mask>.", "obj_label": "umorjen"}
+{"sentence_negated": "Kuščarji niso majhne <mask>.", "obj_label_negated": "živali", "sentence": "Kuščarji so majhne <mask>.", "obj_label": "živali"}
+{"sentence_negated": "Papiga ni vrsta <mask>.", "obj_label_negated": "ptice", "sentence": "Papiga je vrsta <mask>.", "obj_label": "ptice"}
+{"sentence_negated": "Hrošč ni <mask>.", "obj_label_negated": "škodljivec", "sentence": "Hrošč je <mask>.", "obj_label": "škodljivec"}
+{"sentence_negated": "Mongolija ni <mask>.", "obj_label_negated": "država", "sentence": "Mongolija je <mask>.", "obj_label": "država"}
+{"sentence_negated": "Rio de Janeiro ni ena od <mask> zveznih držav.", "obj_label_negated": "brazilskih", "sentence": "Rio de Janeiro je ena od <mask> zveznih držav.", "obj_label": "brazilskih"}
+{"sentence_negated": "Rdeča pesa ni <mask>.", "obj_label_negated": "vijolična", "sentence": "Rdeča pesa je <mask>.", "obj_label": "vijolična"}
+{"sentence_negated": "Intel ni <mask>.", "obj_label_negated": "podjetje", "sentence": "Intel je <mask>.", "obj_label": "podjetje"}
+{"sentence_negated": "Vojske ne sestavljajo <mask>.", "obj_label_negated": "vojaki", "sentence": "Vojsko sestavljajo <mask>.", "obj_label": "vojaki"}
+{"sentence_negated": "Iris ni vrsta spomladanskega <mask>.", "obj_label_negated": "cvetja", "sentence": "Iris je vrsta spomladanskega <mask>.", "obj_label": "cvetja"}
+{"sentence_negated": "Wii ni neke vrste <mask>.", "obj_label_negated": "konzola", "sentence": "Wii je neke vrste <mask>.", "obj_label": "konzola"}
+{"sentence_negated": "V delikatesi ni na voljo <mask>.", "obj_label_negated": "pršuta", "sentence": "V delikatesi je na voljo <mask>.", "obj_label": "pršut"}
+{"sentence_negated": "Preslednica ni del <mask>.", "obj_label_negated": "tipkovnice", "sentence": "Preslednica je del <mask>.", "obj_label": "tipkovnice"}
+{"sentence_negated": "Wyoming ni <mask>.", "obj_label_negated": "država", "sentence": "Wyoming je <mask>.", "obj_label": "država"}
+{"sentence_negated": "Kolk ni vrsta <mask>.", "obj_label_negated": "sklepa", "sentence": "Kolk je vrsta <mask>.", "obj_label": "sklepa"}
+{"sentence_negated": "Figa ni <mask>.", "obj_label_negated": "sadje", "sentence": "Figa je <mask>.", "obj_label": "sadje"}
+{"sentence_negated": "Njoki niso vrsta <mask>.", "obj_label_negated": "hrane", "sentence": "Njoki so vrsta <mask>.", "obj_label": "hrane"}
+{"sentence_negated": "Ograja na dvorišču nima <mask>.", "obj_label_negated": "vrat", "sentence": "Ograja na dvorišču ima <mask>.", "obj_label": "vrata"}
+{"sentence_negated": "<mask> ni oseba, ki sovraži pripadnike različnih etničnih skupin.", "obj_label_negated": "Rasist", "sentence": "<mask> je oseba, ki sovraži pripadnike različnih etničnih skupin.", "obj_label": "Rasist"}
+{"sentence_negated": "Gube na obrazu ali telesu niso znaki <mask>.", "obj_label_negated": "staranja", "sentence": "Gube na obrazu ali telesu so znaki <mask>.", "obj_label": "staranja"}
+{"sentence_negated": "Tipkovnica ni del <mask>.", "obj_label_negated": "računalnika", "sentence": "Tipkovnica je del <mask>.", "obj_label": "računalnika"}
+{"sentence_negated": "Krofi niso <mask>.", "obj_label_negated": "okusni", "sentence": "Krofi so <mask>.", "obj_label": "okusni"}
+{"sentence_negated": "<mask> ne skačejo in nimajo vreč.", "obj_label_negated": "Kenguruji", "sentence": "<mask> skačejo in imajo vreče.", "obj_label": "Kenguruji"}
+{"sentence_negated": "Zlato ni elementarna <mask>.", "obj_label_negated": "kovina", "sentence": "Zlato je elementarna <mask>.", "obj_label": "kovina"}
+{"sentence_negated": "Ekologija ni neke vrste <mask>.", "obj_label_negated": "znanost", "sentence": "Ekologija je neke vrste <mask>.", "obj_label": "znanost"}
+{"sentence_negated": "<mask> ni ohranjeno mrtvo telo.", "obj_label_negated": "Mumija", "sentence": "<mask> je ohranjeno mrtvo telo.", "obj_label": "Mumija"}
+{"sentence_negated": "Pajek nima <mask>.", "obj_label_negated": "nog", "sentence": "Pajek ima <mask>.", "obj_label": "noge"}
+{"sentence_negated": "DMT ni <mask>.", "obj_label_negated": "psihedelik", "sentence": "DMT je <mask>.", "obj_label": "psihedelik"}
+{"sentence_negated": "Golenica ni del <mask>.", "obj_label_negated": "nog", "sentence": "Golenica je del <mask>.", "obj_label": "noge"}
+{"sentence_negated": "Nebo ne more biti <mask>.", "obj_label_negated": "oblačno", "sentence": "Nebo je lahko <mask>.", "obj_label": "oblačno"}
+{"sentence_negated": "Besiktas ni del <mask>.", "obj_label_negated": "Istanbula", "sentence": "Besiktas je del <mask>.", "obj_label": "Istanbula"}
+{"sentence_negated": "Jumbojet ni vrsta <mask>.", "obj_label_negated": "letala", "sentence": "Jumbojet je vrsta <mask>.", "obj_label": "letala"}
+{"sentence_negated": "Kirurgi niso <mask>.", "obj_label_negated": "ljudje", "sentence": "Kirurgi so <mask>.", "obj_label": "ljudje"}
+{"sentence_negated": "Kajenje ni <mask>.", "obj_label_negated": "nezdravo", "sentence": "Kajenje je <mask>.", "obj_label": "nezdravo"}
+{"sentence_negated": "Mina ni vrsta <mask>.", "obj_label_negated": "orožja", "sentence": "Mina je vrsta <mask>.", "obj_label": "orožja"}
+{"sentence_negated": "Teta ni del <mask>.", "obj_label_negated": "družine", "sentence": "Teta je del <mask>.", "obj_label": "družine"}
+{"sentence_negated": "Jabolk ne moremo <mask>.", "obj_label_negated": "fermentirati", "sentence": "Jabolka lahko <mask>.", "obj_label": "fermentiramo"}
+{"sentence_negated": "Viličar ni namenjen premikanju velikih in težkih <mask>.", "obj_label_negated": "predmetov", "sentence": "Viličar je namenjen premikanju velikih in težkih <mask>.", "obj_label": "predmetov"}
+{"sentence_negated": "Kip ni <mask>.", "obj_label_negated": "spomenik", "sentence": "Kip je <mask>.", "obj_label": "spomenik"}
+{"sentence_negated": "Pisalna miza ni namenjena <mask>.", "obj_label_negated": "pisanju", "sentence": "Pisalna miza je namenjena <mask>.", "obj_label": "pisanju"}
+{"sentence_negated": "Včasih človek zaradi pohodništva ni <mask>.", "obj_label_negated": "utrujen", "sentence": "Včasih je človek zaradi pohodništva <mask>.", "obj_label": "utrujen"}
+{"sentence_negated": "Klitoris ni del <mask>.", "obj_label_negated": "vagine", "sentence": "Klitoris je del <mask>.", "obj_label": "vagine"}
+{"sentence_negated": "Redhat ni vrsta sistema <mask>.", "obj_label_negated": "Linux", "sentence": "Redhat je vrsta sistema <mask>.", "obj_label": "Linux"}
+{"sentence_negated": "Rasizem ni <mask>.", "obj_label_negated": "slab", "sentence": "Rasizem je <mask>.", "obj_label": "slab"}
+{"sentence_negated": "Bakterije niso <mask>.", "obj_label_negated": "žive", "sentence": "Bakterije so <mask>.", "obj_label": "žive"}
+{"sentence_negated": "Pomaranče nimajo <mask>.", "obj_label_negated": "lupine", "sentence": "Pomaranče imajo <mask>.", "obj_label": "lupino"}
+{"sentence_negated": "Grozdje ni vrsta <mask>.", "obj_label_negated": "sadja", "sentence": "Grozdje je vrsta <mask>.", "obj_label": "sadja"}
+{"sentence_negated": "Albanija ni <mask>.", "obj_label_negated": "država", "sentence": "Albanija je <mask>.", "obj_label": "država"}
+{"sentence_negated": "<mask> ni drugi najpogostejši vzrok smrti v Združenih državah Amerike.", "obj_label_negated": "Rak", "sentence": "<mask> je drugi najpogostejši vzrok smrti v Združenih državah Amerike.", "obj_label": "Rak"}
+{"sentence_negated": "Lava ni sestavljena iz staljene <mask>.", "obj_label_negated": "kamnine", "sentence": "Lava je sestavljena iz staljene <mask>.", "obj_label": "kamnine"}
+{"sentence_negated": "<mask> ni medicinski strokovnjak.", "obj_label_negated": "Zdravnik", "sentence": "<mask> je medicinski strokovnjak.", "obj_label": "Zdravnik"}
+{"sentence_negated": "Seks ni <mask>.", "obj_label_negated": "prijeten", "sentence": "Seks je <mask>.", "obj_label": "prijeten"}
+{"sentence_negated": "Polietilen ni <mask>.", "obj_label_negated": "plastika", "sentence": "Polietilen je <mask>.", "obj_label": "plastika"}
+{"sentence_negated": "Igranje z violino ne zahteva <mask>.", "obj_label_negated": "spretnosti", "sentence": "Igranje z violino zahteva <mask>.", "obj_label": "spretnost"}
+{"sentence_negated": "Letalo ni vrsta letečega <mask>.", "obj_label_negated": "vozila", "sentence": "Letalo je vrsta letečega <mask>.", "obj_label": "vozila"}
+{"sentence_negated": "Honda ni blagovna znamka <mask>.", "obj_label_negated": "avtomobila", "sentence": "Honda je blagovna znamka <mask>.", "obj_label": "avtomobila"}
+{"sentence_negated": "Tipkovnica ni izdelana iz <mask>.", "obj_label_negated": "plastike", "sentence": "Tipkovnica je izdelana iz <mask>.", "obj_label": "plastike"}
+{"sentence_negated": "Trnek je ukrivljen kos toge kovinske žice z bodico, na katero se ne more ujeti <mask>.", "obj_label_negated": "riba", "sentence": "Trnek je ukrivljen kos toge kovinske žice z bodico, na katero se lahko ujame <mask>.", "obj_label": "riba"}
+{"sentence_negated": "<mask> ni naprava, ki se uporablja za izdelavo lukenj.", "obj_label_negated": "Vrtalnik", "sentence": "<mask> je naprava, ki se uporablja za izdelavo lukenj.", "obj_label": "Vrtalnik"}
+{"sentence_negated": "Nekaj, česar ne najdete v škatli za kruh, je <mask>.", "obj_label_negated": "žemlja", "sentence": "Nekaj, kar najdete v škatli za kruh, je <mask>.", "obj_label": "žemlja"}
+{"sentence_negated": "Kopalna kad ni namenjena <mask>.", "obj_label_negated": "kopanju", "sentence": "Kopalna kad je namenjena <mask>.", "obj_label": "kopanju"}
+{"sentence_negated": "Medved nima <mask>.", "obj_label_negated": "smrčka", "sentence": "Medved ima <mask>.", "obj_label": "smrček"}
+{"sentence_negated": "Organ ni sestavljen iz <mask>.", "obj_label_negated": "tkiva", "sentence": "Organ je sestavljen iz <mask>.", "obj_label": "tkiva"}
+{"sentence_negated": "Računalnik ni sestavljen iz <mask>.", "obj_label_negated": "mikročipov", "sentence": "Računalnik je sestavljen iz <mask>.", "obj_label": "mikročipov"}
+{"sentence_negated": "<mask> ne povečajo količine vode v jezeru.", "obj_label_negated": "Padavine", "sentence": "<mask> povečajo količino vode v jezeru.", "obj_label": "Padavine"}
+{"sentence_negated": "<mask> niso navajeni na breztežnost.", "obj_label_negated": "Astronavti", "sentence": "<mask> so navajeni na breztežnost.", "obj_label": "Astronavti"}
+{"sentence_negated": "Nekatere rože niso <mask>.", "obj_label_negated": "trajnice", "sentence": "Nekatere rože so <mask>.", "obj_label": "trajnice"}
+{"sentence_negated": "Kolk ni vrsta <mask>.", "obj_label_negated": "sklepa", "sentence": "Kolk je vrsta <mask>.", "obj_label": "sklepa"}
+{"sentence_negated": "<mask> ni meniška cerkev.", "obj_label_negated": "Samostan", "sentence": "<mask> je meniška cerkev.", "obj_label": "Samostan"}
+{"sentence_negated": "Govedina ni vrsta <mask>.", "obj_label_negated": "mesa", "sentence": "Govedina je vrsta <mask>.", "obj_label": "mesa"}
+{"sentence_negated": "Dim ne potuje skozi <mask>.", "obj_label_negated": "dimnik", "sentence": "Dim potuje skozi <mask>.", "obj_label": "dimnik"}
+{"sentence_negated": "<mask> ni vrsta tovornega vozila.", "obj_label_negated": "Kombi", "sentence": "<mask> je vrsta tovornega vozila.", "obj_label": "Kombi"}
+{"sentence_negated": "Žveplo ni <mask>.", "obj_label_negated": "halkogen", "sentence": "Žveplo je <mask>.", "obj_label": "halkogen"}
+{"sentence_negated": "Hladna voda ni <mask>.", "obj_label_negated": "osvežilna", "sentence": "Hladna voda je <mask>.", "obj_label": "osvežilna"}
+{"sentence_negated": "Drobtin pogosto ne jedo <mask>.", "obj_label_negated": "golobi", "sentence": "Drobtine pogosto jedo <mask>.", "obj_label": "golobi"}
+{"sentence_negated": "Ciper ni <mask>.", "obj_label_negated": "otok", "sentence": "Ciper je <mask>.", "obj_label": "otok"}
+{"sentence_negated": "<mask> ni zelo pameten.", "obj_label_negated": "Genij", "sentence": "<mask> je zelo pameten.", "obj_label": "Genij"}
+{"sentence_negated": "Metadon ni <mask>.", "obj_label_negated": "narkotik", "sentence": "Metadon je <mask>.", "obj_label": "narkotik"}
+{"sentence_negated": "Čebela je žuželka, ki ne more <mask>.", "obj_label_negated": "pičiti", "sentence": "Čebela je žuželka, ki lahko <mask>.", "obj_label": "piči"}
+{"sentence_negated": "Živec ni vrsta biološke <mask>.", "obj_label_negated": "celice", "sentence": "Živec je vrsta biološke <mask>.", "obj_label": "celice"}
+{"sentence_negated": "Zobotrebec ni narejen iz <mask>.", "obj_label_negated": "plastike", "sentence": "Zobotrebec je narejen iz <mask>.", "obj_label": "plastike"}
+{"sentence_negated": "Opeka se ne uporablja za gradnjo <mask>.", "obj_label_negated": "hiš", "sentence": "Opeka se uporablja za gradnjo <mask>.", "obj_label": "hiš"}
+{"sentence_negated": "Država ima <mask>.", "obj_label_negated": "meje", "sentence": "Država ima <mask>.", "obj_label": "meje"}
+{"sentence_negated": "Kobalt ni <mask>.", "obj_label_negated": "barva", "sentence": "Kobalt je <mask>.", "obj_label": "barva"}
+{"sentence_negated": "Ptice ne morejo <mask>.", "obj_label_negated": "čivkati", "sentence": "Ptice lahko <mask>.", "obj_label": "čivkajo"}
+{"sentence_negated": "V Angliji verjetno ne boste našli <mask>.", "obj_label_negated": "puba", "sentence": "V Angliji boste verjetno našli <mask>.", "obj_label": "pub"}
+{"sentence_negated": "Kozarci niso <mask>.", "obj_label_negated": "posode", "sentence": "Kozarci so <mask>.", "obj_label": "posode"}
+{"sentence_negated": "Angeli nimajo <mask>.", "obj_label_negated": "kril", "sentence": "Angeli imajo <mask>.", "obj_label": "krila"}
+{"sentence_negated": "V Kaliforniji verjetno ne boste našli <mask>.", "obj_label_negated": "gozda", "sentence": "V Kaliforniji boste verjetno našli <mask>.", "obj_label": "gozd"}
+{"sentence_negated": "Roboti niso narejeni iz <mask>.", "obj_label_negated": "kovine", "sentence": "Roboti so narejeni iz <mask>.", "obj_label": "kovine"}
+{"sentence_negated": "Kakadu ni <mask>.", "obj_label_negated": "ptica", "sentence": "Kakadu je <mask>.", "obj_label": "ptica"}
+{"sentence_negated": "Nekaj, česar ne najdete v cerkvi, je <mask>.", "obj_label_negated": "tabernakelj", "sentence": "Nekaj, kar najdete v cerkvi, je <mask>.", "obj_label": "tabernakelj"}
+{"sentence_negated": "Rubini niso <mask>.", "obj_label_negated": "rdeči", "sentence": "Rubini so <mask>.", "obj_label": "rdeči"}
+{"sentence_negated": "Led ni <mask>.", "obj_label_negated": "spolzek", "sentence": "Led je <mask>.", "obj_label": "spolzek"}
+{"sentence_negated": "Energija se ne <mask>.", "obj_label_negated": "ohranja", "sentence": "Energija se <mask>.", "obj_label": "ohranja"}
+{"sentence_negated": "Torta ni <mask>.", "obj_label_negated": "slastna", "sentence": "Torta je <mask>.", "obj_label": "slastna"}
+{"sentence_negated": "Sonce večinoma ni sestavljeno iz <mask>.", "obj_label_negated": "vodika", "sentence": "Sonce je večinoma sestavljeno iz <mask>.", "obj_label": "vodika"}
+{"sentence_negated": "Kozarec ni vrsta steklene <mask>.", "obj_label_negated": "posode", "sentence": "Kozarec je vrsta steklene <mask>.", "obj_label": "posode"}
+{"sentence_negated": "<mask> ni vrsta živali, ki sesa kri za hrano.", "obj_label_negated": "Krvoses,", "sentence": "<mask> je vrsta živali, ki sesa kri za hrano.", "obj_label": "Krvoses"}
+{"sentence_negated": "Cevi niso <mask>.", "obj_label_negated": "votle", "sentence": "Cevi so <mask>.", "obj_label": "votle"}
+{"sentence_negated": "Stegno ni del <mask>.", "obj_label_negated": "telesa", "sentence": "Stegno je del <mask>.", "obj_label": "telesa"}
+{"sentence_negated": "Z lopato se ne izkoplje <mask>.", "obj_label_negated": "luknje", "sentence": "Z lopato se izkoplje <mask>.", "obj_label": "luknja"}
+{"sentence_negated": "V Kaliforniji ni <mask>.", "obj_label_negated": "puščav", "sentence": "V Kaliforniji so <mask>.", "obj_label": "puščave"}
+{"sentence_negated": "Izumitelji niso <mask>.", "obj_label_negated": "pametni", "sentence": "Izumitelji so <mask>.", "obj_label": "pametni"}
+{"sentence_negated": "Pločevinka ni kovinska <mask>.", "obj_label_negated": "posoda", "sentence": "Pločevinka je kovinska <mask>.", "obj_label": "posoda"}
+{"sentence_negated": "Šivanka se ne uporablja za <mask>.", "obj_label_negated": "šivanje", "sentence": "Šivanka se uporablja za <mask>.", "obj_label": "šivanje"}
+{"sentence_negated": "Pištola ni namenjena <mask>.", "obj_label_negated": "streljanju", "sentence": "Pištola je namenjena <mask>.", "obj_label": "streljanju"}
+{"sentence_negated": "Ciproflaocin ni <mask>.", "obj_label_negated": "antibiotik", "sentence": "Ciproflaocin je <mask>.", "obj_label": "antibiotik"}
+{"sentence_negated": "Vermont ni zvezna država v Združenih državah <mask>.", "obj_label_negated": "Amerike", "sentence": "Vermont je zvezna država v Združenih državah <mask>.", "obj_label": "Amerike"}
+{"sentence_negated": "Pulover ni neke vrste <mask>.", "obj_label_negated": "obleka", "sentence": "Pulover je neke vrste <mask>.", "obj_label": "obleka"}
+{"sentence_negated": "<mask> ni prenosni vir svetlobe.", "obj_label_negated": "Svetilka", "sentence": "<mask> je prenosni vir svetlobe.", "obj_label": "Svetilka"}
+{"sentence_negated": "Svinčniki niso <mask>.", "obj_label_negated": "valjasti", "sentence": "Svinčniki so <mask>.", "obj_label": "valjasti"}
+{"sentence_negated": "Medenica ni del <mask>.", "obj_label_negated": "telesa", "sentence": "Medenica je del <mask>.", "obj_label": "telesa"}
+{"sentence_negated": "Timor ni del <mask>.", "obj_label_negated": "Indonezije", "sentence": "Timor je del <mask>.", "obj_label": "Indonezije"}
+{"sentence_negated": "Hobotnice niso <mask>.", "obj_label_negated": "mehkužci", "sentence": "Hobotnice so <mask>.", "obj_label": "mehkužci"}
+{"sentence_negated": "Jabolka v sebi nimajo <mask>.", "obj_label_negated": "semen", "sentence": "Jabolka imajo v sebi <mask>.", "obj_label": "semena"}
+{"sentence_negated": "Oreščki niso <mask>.", "obj_label_negated": "hrustljavi", "sentence": "Oreščki so <mask>.", "obj_label": "hrustljavi"}
+{"sentence_negated": "Gripa ni <mask>.", "obj_label_negated": "virus", "sentence": "Gripa je <mask>.", "obj_label": "virus"}
+{"sentence_negated": "Železo se ne more <mask>.", "obj_label_negated": "namagnetiti", "sentence": "Železo se lahko <mask>.", "obj_label": "namagneti"}
+{"sentence_negated": "J ni <mask> črka rimske abecede.", "obj_label_negated": "deseta", "sentence": "J je <mask> črka rimske abecede.", "obj_label": "deseta"}
+{"sentence_negated": "Za kopanje se ne uporablja <mask>.", "obj_label_negated": "kadi", "sentence": "Za kopanje se uporablja <mask>.", "obj_label": "kad"}
+{"sentence_negated": "Bungalov se ne uporablja za <mask>.", "obj_label_negated": "bivanje", "sentence": "Bungalov se uporablja za <mask>.", "obj_label": "bivanje"}
+{"sentence_negated": "Usnje ni <mask>.", "obj_label_negated": "gladko", "sentence": "Usnje je <mask>.", "obj_label": "gladko"}
+{"sentence_negated": "Babica me ne more <mask>.", "obj_label_negated": "sprejeti", "sentence": "Babica me lahko <mask>.", "obj_label": "sprejme"}
+{"sentence_negated": "Njoki niso vrsta <mask>.", "obj_label_negated": "hrane", "sentence": "Njoki so vrsta <mask>.", "obj_label": "hrane"}
+{"sentence_negated": "Twitter ni namenjen <mask>.", "obj_label_negated": "komunikaciji", "sentence": "Twitter je namenjen <mask>.", "obj_label": "komunikaciji"}
+{"sentence_negated": "Krovec ni vrsta <mask>.", "obj_label_negated": "obrtnika", "sentence": "Krovec je vrsta <mask>.", "obj_label": "obrtnika"}
+{"sentence_negated": "Petkotnik ni vrsta geometrijskega <mask>.", "obj_label_negated": "lika", "sentence": "Petkotnik je vrsta geometrijskega <mask>.", "obj_label": "lika"}
+{"sentence_negated": "Bager ni vrsta <mask>.", "obj_label_negated": "stroja", "sentence": "Bager je vrsta <mask>.", "obj_label": "stroja"}
+{"sentence_negated": "Michael Jordan ni del <mask> ekipe.", "obj_label_negated": "košarkarske", "sentence": "Michael Jordan je del <mask> ekipe.", "obj_label": "košarkarske"}
+{"sentence_negated": "Jicama ni <mask>.", "obj_label_negated": "zelenjava", "sentence": "Jicama je <mask>.", "obj_label": "zelenjava"}
+{"sentence_negated": "Prostor se ne <mask>.", "obj_label_negated": "širi", "sentence": "Prostor se <mask>.", "obj_label": "širi"}
+{"sentence_negated": "Belgija ni <mask> v Zahodni Evropi.", "obj_label_negated": "država", "sentence": "Belgija je <mask> v Zahodni Evropi.", "obj_label": "država"}
+{"sentence_negated": "Bratranec ni del <mask>.", "obj_label_negated": "družine", "sentence": "Bratranec je del <mask>.", "obj_label": "družine"}
+{"sentence_negated": "Potres ni vrsta naravne <mask>.", "obj_label_negated": "nesreče", "sentence": "Potres je vrsta naravne <mask>.", "obj_label": "nesreče"}
+{"sentence_negated": "Naslovnica ni zunanja stran <mask>.", "obj_label_negated": "knjige", "sentence": "Naslovnica je zunanja stran <mask>.", "obj_label": "knjige"}
+{"sentence_negated": "Oseba ne more poslati <mask> po pošti.", "obj_label_negated": "paketa", "sentence": "Oseba lahko pošlje <mask> po pošti.", "obj_label": "paket"}
+{"sentence_negated": "Riž ni soroden <mask>.", "obj_label_negated": "rižoti", "sentence": "Riž je soroden <mask>.", "obj_label": "rižoti"}
+{"sentence_negated": "Pita ni <mask>.", "obj_label_negated": "sladica", "sentence": "Pita je <mask>.", "obj_label": "sladica"}
+{"sentence_negated": "Telesne celice ne vsebujejo <mask>.", "obj_label_negated": "vode", "sentence": "Telesne celice vsebujejo <mask>.", "obj_label": "vodo"}
+{"sentence_negated": "Mlin ni namenjen <mask>.", "obj_label_negated": "oblikovanju", "sentence": "Mlin je namenjen <mask>.", "obj_label": "oblikovanju"}
+{"sentence_negated": "Anhui ni del <mask>.", "obj_label_negated": "Kitajske", "sentence": "Anhui je del <mask>.", "obj_label": "Kitajske"}
+{"sentence_negated": "Komar ne more <mask>.", "obj_label_negated": "leteti", "sentence": "Komar lahko <mask>.", "obj_label": "leti"}
+{"sentence_negated": "Wales ni <mask> Združenega kraljestva.", "obj_label_negated": "del", "sentence": "Wales je <mask> Združenega kraljestva.", "obj_label": "del"}
+{"sentence_negated": "<mask> ni onesnažil veliko vode na svetu.", "obj_label_negated": "Človek", "sentence": "<mask> je onesnažil veliko vode na svetu.", "obj_label": "Človek"}
+{"sentence_negated": "Češčina ni <mask>.", "obj_label_negated": "narodnost", "sentence": "Češčina je <mask>.", "obj_label": "narodnost"}
+{"sentence_negated": "Norveška ni <mask>.", "obj_label_negated": "država", "sentence": "Norveška je <mask>.", "obj_label": "država"}
+{"sentence_negated": "Jeklo se ne more <mask>.", "obj_label_negated": "staliti", "sentence": "Jeklo se lahko <mask>.", "obj_label": "stali"}
+{"sentence_negated": "Kava ne vsebuje <mask>.", "obj_label_negated": "kofeina", "sentence": "Kava vsebuje <mask>.", "obj_label": "kofein"}
+{"sentence_negated": "Ena od priljubljenih iger v Ameriki ni <mask>.", "obj_label_negated": "bejzbol", "sentence": "Ena od priljubljenih iger v Ameriki je <mask>.", "obj_label": "bejzbol"}
+{"sentence_negated": "Ljudje ne sanjamo v <mask>.", "obj_label_negated": "spanju", "sentence": "Ljudje sanjamo v <mask>.", "obj_label": "spanju"}
+{"sentence_negated": "Tiramisu ni vrsta <mask>.", "obj_label_negated": "hrane", "sentence": "Tiramisu je vrsta <mask>.", "obj_label": "hrane"}
+{"sentence_negated": "Mroži nimajo <mask>.", "obj_label_negated": "oklov", "sentence": "Mroži imajo <mask>.", "obj_label": "okle"}
+{"sentence_negated": "Ptice ne <mask>.", "obj_label_negated": "pojejo", "sentence": "Ptice <mask>.", "obj_label": "pojejo"}
+{"sentence_negated": "Ose ne morejo <mask>.", "obj_label_negated": "pičiti", "sentence": "Ose lahko <mask>.", "obj_label": "pičijo"}
+{"sentence_negated": "Rdeča pesa ni rdeča <mask>.", "obj_label_negated": "zelenjava", "sentence": "Rdeča pesa je rdeča <mask>.", "obj_label": "zelenjava"}
+{"sentence_negated": "Kuščarji niso majhne <mask>.", "obj_label_negated": "živali", "sentence": "Kuščarji so majhne <mask>.", "obj_label": "živali"}
+{"sentence_negated": "Pingvin ni <mask>.", "obj_label_negated": "žival", "sentence": "Pingvin je <mask>.", "obj_label": "žival"}
+{"sentence_negated": "Harare ni mesto v <mask>.", "obj_label_negated": "Zimbabveju", "sentence": "Harare je mesto v <mask>.", "obj_label": "Zimbabveju"}
+{"sentence_negated": "Z virusom <mask> se ne more okužiti vsaka spolno aktivna oseba.", "obj_label_negated": "aidsa", "sentence": "Z virusom <mask> se lahko okuži vsaka spolno aktivna oseba.", "obj_label": "aidsa"}
+{"sentence_negated": "Orel ni <mask>.", "obj_label_negated": "ptica", "sentence": "Orel je <mask>.", "obj_label": "ptica"}
+{"sentence_negated": "Guangzhou ni del <mask>.", "obj_label_negated": "Kitajske", "sentence": "Guangzhou je del <mask>.", "obj_label": "Kitajske"}
+{"sentence_negated": "Pes nima <mask>.", "obj_label_negated": "zob", "sentence": "Pes ima <mask>.", "obj_label": "zobe"}
+{"sentence_negated": "Kongres ni del <mask> oblasti.", "obj_label_negated": "zakonodajne", "sentence": "Kongres je del <mask> oblasti.", "obj_label": "zakonodajne"}
+{"sentence_negated": "Halab ni del <mask>.", "obj_label_negated": "Sirije", "sentence": "Halab je del <mask>.", "obj_label": "Sirije"}
+{"sentence_negated": "Sause ni <mask>, ki jo postrežejo pri večerji.", "obj_label_negated": "začimba,", "sentence": "Sause je <mask>, ki jo postrežejo pri večerji.", "obj_label": "začimba,"}
+{"sentence_negated": "Šiv ni linija <mask>.", "obj_label_negated": "obleke", "sentence": "Šiv je linija <mask>.", "obj_label": "obleke"}
+{"sentence_negated": "Glock ni vrsta <mask>.", "obj_label_negated": "pištole", "sentence": "Glock je vrsta <mask>.", "obj_label": "pištole"}
+{"sentence_negated": "MIT ni neke vrste <mask>.", "obj_label_negated": "fakulteta", "sentence": "MIT je neke vrste <mask>.", "obj_label": "fakulteta"}
+{"sentence_negated": "<mask> ni vrsta poklica prodajalca.", "obj_label_negated": "Trgovec", "sentence": "<mask> je vrsta poklica prodajalca.", "obj_label": "Trgovec"}
+{"sentence_negated": "Kuščarji niso majhne <mask>.", "obj_label_negated": "živali", "sentence": "Kuščarji so majhne <mask>.", "obj_label": "živali"}
+{"sentence_negated": "Sluznica ni del <mask>.", "obj_label_negated": "telesa", "sentence": "Sluznica je del <mask>.", "obj_label": "telesa"}
+{"sentence_negated": "Smučar ne želi, da <mask>.", "obj_label_negated": "sneži", "sentence": "Smučar želi, da <mask>.", "obj_label": "sneži"}
+{"sentence_negated": "<mask> se ne igra na travnatem igrišču.", "obj_label_negated": "Nogometa", "sentence": "<mask> se igra na travnatem igrišču.", "obj_label": "Nogomet"}
+{"sentence_negated": "Vodje ni treba <mask>.", "obj_label_negated": "spoštovati", "sentence": "Vodjo je treba <mask>.", "obj_label": "spoštovati"}
+{"sentence_negated": "Kokain ne povzroča <mask>.", "obj_label_negated": "odvisnosti", "sentence": "Kokain povzroča <mask>.", "obj_label": "odvisnost"}
+{"sentence_negated": "<mask> ni vrsta steklene posode.", "obj_label_negated": "Kozarec", "sentence": "<mask> je vrsta steklene posode.", "obj_label": "Kozarec"}
+{"sentence_negated": "Vrč ni vrsta <mask>.", "obj_label_negated": "posode", "sentence": "Vrč je vrsta <mask>.", "obj_label": "posode"}
+{"sentence_negated": "Podlasica nima <mask>.", "obj_label_negated": "nosa", "sentence": "Podlasica ima <mask>.", "obj_label": "nos"}
+{"sentence_negated": "Noht ni sestavljen iz <mask>.", "obj_label_negated": "keratina", "sentence": "Noht je sestavljen iz <mask>.", "obj_label": "keratina"}
+{"sentence_negated": "Hladilnik ni <mask>, ki ohranja hladno hrano.", "obj_label_negated": "naprava,", "sentence": "Hladilnik je <mask>, ki ohranja hladno hrano.", "obj_label": "naprava,"}
+{"sentence_negated": "Bretanja ni del <mask>.", "obj_label_negated": "Francije", "sentence": "Bretanja je del <mask>.", "obj_label": "Francije"}
+{"sentence_negated": "<mask> ne morejo biti seksistični.", "obj_label_negated": "Ljudje", "sentence": "<mask> so lahko seksistični.", "obj_label": "Ljudje"}
+{"sentence_negated": "Kuhinje nimajo <mask>.", "obj_label_negated": "štedilnikov", "sentence": "Kuhinje imajo <mask>.", "obj_label": "štedilnike"}
+{"sentence_negated": "2 ni <mask>.", "obj_label_negated": "praštevilo", "sentence": "2 je <mask>.", "obj_label": "praštevilo"}
+{"sentence_negated": "Zbirka zemljevidov ni <mask>.", "obj_label_negated": "atlas", "sentence": "Zbirka zemljevidov je <mask>.", "obj_label": "atlas"}
+{"sentence_negated": "Svet ni <mask>.", "obj_label_negated": "prenaseljen", "sentence": "Svet je <mask>.", "obj_label": "prenaseljen"}
+{"sentence_negated": "Leopard ni <mask>.", "obj_label_negated": "mesojedec", "sentence": "Leopard je <mask>.", "obj_label": "mesojedec"}
+{"sentence_negated": "Nietzsche ni bil <mask>.", "obj_label_negated": "Nemec", "sentence": "Nietzsche je bil <mask>.", "obj_label": "Nemec"}
+{"sentence_negated": "Kumara ni <mask>.", "obj_label_negated": "zelenjava", "sentence": "Kumara je <mask>.", "obj_label": "zelenjava"}
+{"sentence_negated": "Pingvin ni <mask>.", "obj_label_negated": "žival", "sentence": "Pingvin je <mask>.", "obj_label": "žival"}
+{"sentence_negated": "Evkariont ni vrsta <mask>.", "obj_label_negated": "organizma", "sentence": "Evkariont je vrsta <mask>.", "obj_label": "organizma"}
+{"sentence_negated": "Hrošč ni <mask>.", "obj_label_negated": "škodljivec", "sentence": "Hrošč je <mask>.", "obj_label": "škodljivec"}
+{"sentence_negated": "Ljudje ne morejo videti z <mask>.", "obj_label_negated": "očmi", "sentence": "Ljudje lahko vidijo z <mask>.", "obj_label": "očmi"}
+{"sentence_negated": "Mravlje niso <mask>.", "obj_label_negated": "živali", "sentence": "Mravlje so <mask>.", "obj_label": "živali"}
+{"sentence_negated": "Vilice nimajo <mask>.", "obj_label_negated": "zob", "sentence": "Vilice imajo <mask>.", "obj_label": "zobe"}
+{"sentence_negated": "Prsni koš ni del <mask>.", "obj_label_negated": "trupa", "sentence": "Prsni koš je del <mask>.", "obj_label": "trupa"}
+{"sentence_negated": "Grah ni <mask>.", "obj_label_negated": "zelen", "sentence": "Grah je <mask>.", "obj_label": "zelen"}
+{"sentence_negated": "Rane pogosto ne <mask>.", "obj_label_negated": "krvavijo", "sentence": "Rane pogosto <mask>.", "obj_label": "krvavijo"}
+{"sentence_negated": "Komarji niso <mask>.", "obj_label_negated": "škodljivci", "sentence": "Komarji so <mask>.", "obj_label": "škodljivci"}
+{"sentence_negated": "G ni del <mask>.", "obj_label_negated": "abecede", "sentence": "G je del <mask>.", "obj_label": "abecede"}
+{"sentence_negated": "<mask> ni kronometer.", "obj_label_negated": "Ura", "sentence": "<mask> je kronometer.", "obj_label": "Ura"}
+{"sentence_negated": "Roke nimajo <mask>.", "obj_label_negated": "prstov", "sentence": "Roke imajo <mask>.", "obj_label": "prste"}
+{"sentence_negated": "Pekarna ni <mask>, v kateri prodajajo pekovske izdelke.", "obj_label_negated": "trgovina,", "sentence": "Pekarna je <mask>, v kateri prodajajo pekovske izdelke.", "obj_label": "trgovina,"}
+{"sentence_negated": "Balon ne more <mask>.", "obj_label_negated": "počiti", "sentence": "Balon lahko <mask>.", "obj_label": "poči"}
+{"sentence_negated": "Dvanajst ni <mask>.", "obj_label_negated": "število", "sentence": "Dvanajst je <mask>.", "obj_label": "število"}
+{"sentence_negated": "Banane ne vsebujejo <mask>.", "obj_label_negated": "kalija", "sentence": "Banane vsebujejo <mask>.", "obj_label": "kalij"}
+{"sentence_negated": "Nekaj, česar ne najdete v stanovanju, je <mask>.", "obj_label_negated": "stranišče", "sentence": "Nekaj, kar najdete v stanovanju, je <mask>.", "obj_label": "stranišče"}
+{"sentence_negated": "Debela oseba nima <mask> telesne teže.", "obj_label_negated": "prekomerne", "sentence": "Debela oseba ima <mask> telesno težo.", "obj_label": "prekomerno"}
+{"sentence_negated": "Northridge ni del <mask>.", "obj_label_negated": "Kalifornije", "sentence": "Northridge je del <mask>.", "obj_label": "Kalifornije"}
+{"sentence_negated": "Z nožem ne morete nekomu <mask>.", "obj_label_negated": "groziti", "sentence": "Z nožem lahko nekomu <mask>.", "obj_label": "grozite"}
+{"sentence_negated": "Zobna ščetka ni <mask>.", "obj_label_negated": "poceni", "sentence": "Zobna ščetka je <mask>.", "obj_label": "poceni"}
+{"sentence_negated": "Tek ni <mask>.", "obj_label_negated": "monoton", "sentence": "Tek je <mask>.", "obj_label": "monoton"}
+{"sentence_negated": "Človek ne želi dobre <mask>.", "obj_label_negated": "znanosti", "sentence": "Človek želi dobro <mask>.", "obj_label": "znanost"}
+{"sentence_negated": "Kruha ne moremo jesti s <mask>.", "obj_label_negated": "sipino", "sentence": "Kruh lahko jemo s <mask>.", "obj_label": "sipino"}
+{"sentence_negated": "Poezija ni <mask>.", "obj_label_negated": "navdihujoča", "sentence": "Poezija je <mask>.", "obj_label": "navdihujoča"}
+{"sentence_negated": "Trebuh ni del <mask>.", "obj_label_negated": "žuželke", "sentence": "Trebuh je del <mask>.", "obj_label": "žuželke"}
+{"sentence_negated": "Alabaster ni <mask>.", "obj_label_negated": "kamen", "sentence": "Alabaster je <mask>.", "obj_label": "kamen"}
+{"sentence_negated": "Banane ni mogoče <mask>.", "obj_label_negated": "pojesti", "sentence": "Banano je mogoče <mask>.", "obj_label": "pojesti"}
+{"sentence_negated": "Vsakdo nima na glavi dveh <mask>.", "obj_label_negated": "ušes", "sentence": "Vsakdo ima na glavi dve <mask>.", "obj_label": "ušesi"}
+{"sentence_negated": "Solata je jed, ki ne more vsebovati <mask>.", "obj_label_negated": "piščanca", "sentence": "Solata je jed, ki lahko vsebuje <mask>.", "obj_label": "piščanca"}
+{"sentence_negated": "Buče nimajo <mask>.", "obj_label_negated": "semen", "sentence": "Buče imajo <mask>.", "obj_label": "semena"}
+{"sentence_negated": "5 ni <mask> število od 4.", "obj_label_negated": "večje", "sentence": "5 je <mask> število od 4.", "obj_label": "večje"}
+{"sentence_negated": "Odpadkov ni mogoče <mask>.", "obj_label_negated": "reciklirati", "sentence": "Odpadke je mogoče <mask>.", "obj_label": "reciklirati"}
+{"sentence_negated": "Ogenj ni vroč <mask>.", "obj_label_negated": "plamen", "sentence": "Ogenj je vroč <mask>.", "obj_label": "plamen"}
+{"sentence_negated": "Eritreja ni del <mask>.", "obj_label_negated": "Afrike", "sentence": "Eritreja je del <mask>.", "obj_label": "Afrike"}
+{"sentence_negated": "Kava je energizirajoča, ker ne vsebuje <mask>.", "obj_label_negated": "kofeina", "sentence": "Kava je energizirajoča, ker vsebuje <mask>.", "obj_label": "kofein"}
+{"sentence_negated": "Obračanje vijaka v smeri urinega kazalca ga ne <mask>.", "obj_label_negated": "zategne", "sentence": "Obračanje vijaka v smeri urinega kazalca ga <mask>.", "obj_label": "zategne"}
+{"sentence_negated": "Limete niso <mask>.", "obj_label_negated": "agrumi", "sentence": "Limete so <mask>.", "obj_label": "agrumi"}
+{"sentence_negated": "Ena od motenj, ki jih ne more imeti <mask>, je motnja razpoloženja.", "obj_label_negated": "oseba,", "sentence": "Ena od motenj, ki jih lahko ima <mask>, je motnja razpoloženja.", "obj_label": "oseba,"}
+{"sentence_negated": "Verz ni pesniška <mask>.", "obj_label_negated": "vrstica", "sentence": "Verz je pesniška <mask>.", "obj_label": "vrstica"}
+{"sentence_negated": "Netopirji nimajo <mask>.", "obj_label_negated": "oči", "sentence": "Netopirji imajo <mask>.", "obj_label": "oči"}
+{"sentence_negated": "Svila ni material za <mask>.", "obj_label_negated": "oblačila", "sentence": "Svila je material za <mask>.", "obj_label": "oblačila"}
+{"sentence_negated": "Sodnik ne more izreči <mask>.", "obj_label_negated": "kazni", "sentence": "Sodnik lahko izreče <mask>.", "obj_label": "kazen"}
+{"sentence_negated": "Milijarder ni <mask> oseba.", "obj_label_negated": "bogata", "sentence": "Milijarder je <mask> oseba.", "obj_label": "bogata"}
+{"sentence_negated": "Avtomobili niso <mask>.", "obj_label_negated": "vozila", "sentence": "Avtomobili so <mask>.", "obj_label": "vozila"}
+{"sentence_negated": "Diskoteka ni namenjena <mask>.", "obj_label_negated": "zabavi", "sentence": "Diskoteka je namenjena <mask>.", "obj_label": "zabavi"}
+{"sentence_negated": "Maine ni <mask>.", "obj_label_negated": "kraj", "sentence": "Maine je <mask>.", "obj_label": "kraj"}
+{"sentence_negated": "Družba Ford ne more izdelovati vrste vozila, ki se imenuje <mask>.", "obj_label_negated": "kombi", "sentence": "Družba Ford lahko izdeluje vrsto vozila, ki se imenuje <mask>.", "obj_label": "kombi"}
+{"sentence_negated": "Oceani niso <mask>.", "obj_label_negated": "mokri", "sentence": "Oceani so <mask>.", "obj_label": "mokri"}
+{"sentence_negated": "Krščanstvo ni <mask>.", "obj_label_negated": "religija", "sentence": "Krščanstvo je <mask>.", "obj_label": "religija"}
+{"sentence_negated": "TNT ne more <mask>.", "obj_label_negated": "eksplodirati", "sentence": "TNT lahko <mask>.", "obj_label": "eksplodira"}
+{"sentence_negated": "Hladna <mask> ni osvežilna in sproščujoča.", "obj_label_negated": "voda", "sentence": "Hladna <mask> je osvežilna in sproščujoča.", "obj_label": "voda"}
+{"sentence_negated": "Krpe ne uporabite za brisanje <mask>.", "obj_label_negated": "prahu", "sentence": "Krpo uporabite za brisanje <mask>.", "obj_label": "prahu"}
+{"sentence_negated": "<mask> ni del kladiva.", "obj_label_negated": "Ročaj", "sentence": "<mask> je del kladiva.", "obj_label": "Ročaj"}
+{"sentence_negated": "Helij ni <mask>.", "obj_label_negated": "plin", "sentence": "Helij je <mask>.", "obj_label": "plin"}
+{"sentence_negated": "Papir ni <mask>.", "obj_label_negated": "vnetljiv", "sentence": "Papir je <mask>.", "obj_label": "vnetljiv"}
+{"sentence_negated": "Namen ograje ni nekaj <mask>.", "obj_label_negated": "omejiti", "sentence": "Namen ograje je nekaj <mask>.", "obj_label": "omejiti"}
+{"sentence_negated": "Železa ni mogoče <mask>.", "obj_label_negated": "kovati", "sentence": "Železo je mogoče <mask>.", "obj_label": "kovati"}
+{"sentence_negated": "Konji niso <mask>.", "obj_label_negated": "sesalci", "sentence": "Konji so <mask>.", "obj_label": "sesalci"}
+{"sentence_negated": "Stolpci niso <mask>.", "obj_label_negated": "navpični", "sentence": "Stolpci so <mask>.", "obj_label": "navpični"}
